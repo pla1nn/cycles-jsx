@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cycles-jsx/static/css/main.7acaea2f.css",
-    "main.js": "/cycles-jsx/static/js/main.f6cdf716.js",
+    "main.js": "/cycles-jsx/static/js/main.a473f150.js",
     "index.html": "/cycles-jsx/index.html",
     "main.7acaea2f.css.map": "/cycles-jsx/static/css/main.7acaea2f.css.map",
-    "main.f6cdf716.js.map": "/cycles-jsx/static/js/main.f6cdf716.js.map"
+    "main.a473f150.js.map": "/cycles-jsx/static/js/main.a473f150.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.f6cdf716.js"
+    "static/js/main.a473f150.js"
   ]
 }
